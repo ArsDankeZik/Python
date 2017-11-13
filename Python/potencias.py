@@ -1,4 +1,4 @@
-print("Este programa calculará la potencia de una base.\n¿Desea continuar con la ejecución del programa?(s/n): ")
+respuesta = input("Este programa calculará la potencia de una base.\n¿Desea continuar con la ejecución del programa?(s/n): ")
 
 while respuesta.lower() in ("s"):
 	base = int(input("Introduzca la base: "))
