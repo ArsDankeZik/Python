@@ -1,2 +1,1 @@
-# ex_python
-Python Exercises
+# Python Things
