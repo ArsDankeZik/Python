@@ -1,4 +1,10 @@
-.vscode
-.*swp
+*.vscode
+
+*.*swp
+
+*.pyc
+
+__pycache__
+
 Settings.py
 
